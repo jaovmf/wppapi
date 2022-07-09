@@ -1,0 +1,34 @@
+2022/07/09-13:28:51.429 15c8 Reusing MANIFEST C:\dev_\wpp\tokens\apiwhatsappenvio\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/09-13:28:51.430 15c8 Recovering log #397
+2022/07/09-13:28:51.433 15c8 Reusing old log C:\dev_\wpp\tokens\apiwhatsappenvio\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000397.log 
+2022/07/09-13:28:51.434 15c8 Delete type=2 #349
+2022/07/09-13:28:51.434 15c8 Delete type=2 #350
+2022/07/09-13:28:51.434 15c8 Delete type=2 #351
+2022/07/09-13:28:51.434 15c8 Delete type=2 #352
+2022/07/09-13:28:51.434 15c8 Delete type=2 #353
+2022/07/09-13:28:51.434 15c8 Delete type=2 #354
+2022/07/09-13:28:51.434 15c8 Delete type=2 #355
+2022/07/09-13:28:51.434 15c8 Delete type=2 #356
+2022/07/09-13:28:51.434 15c8 Delete type=2 #357
+2022/07/09-13:28:51.434 15c8 Delete type=2 #386
+2022/07/09-13:28:51.434 15c8 Delete type=2 #393
+2022/07/09-13:28:51.434 15c8 Delete type=2 #394
+2022/07/09-13:28:51.434 15c8 Delete type=2 #399
+2022/07/09-13:29:06.089 15c8 Compacting 1@1 + 6@2 files
+2022/07/09-13:29:06.155 15c8 Generated table #415@1: 42367 keys, 2217410 bytes
+2022/07/09-13:29:06.178 15c8 Generated table #416@1: 10340 keys, 2130678 bytes
+2022/07/09-13:29:06.252 15c8 Generated table #417@1: 106738 keys, 2258836 bytes
+2022/07/09-13:29:06.324 15c8 Generated table #418@1: 101586 keys, 2252573 bytes
+2022/07/09-13:29:06.366 15c8 Generated table #419@1: 64480 keys, 1428641 bytes
+2022/07/09-13:29:06.367 15c8 Compacted 1@1 + 6@2 files => 10288138 bytes
+2022/07/09-13:29:06.368 15c8 compacted to: files[ 0 0 18 0 0 0 0 ]
+2022/07/09-13:29:06.368 15c8 Delete type=2 #373
+2022/07/09-13:29:06.368 15c8 Delete type=2 #374
+2022/07/09-13:29:06.368 15c8 Delete type=2 #375
+2022/07/09-13:29:06.368 15c8 Delete type=2 #376
+2022/07/09-13:29:06.368 15c8 Delete type=2 #383
+2022/07/09-13:29:06.368 15c8 Delete type=2 #401
+2022/07/09-13:29:06.368 15c8 Delete type=2 #402
+2022/07/09-13:29:26.343 15c8 Level-0 table #421: started
+2022/07/09-13:29:26.368 15c8 Level-0 table #421: 1162650 bytes OK
+2022/07/09-13:29:26.370 15c8 Delete type=0 #397
